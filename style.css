@@ -1,0 +1,24 @@
+.zewnetrzny {
+    background-color: peachpuff;
+    width: 70%;
+}
+h1 {
+    color: red;
+    font-size: 35px;
+    padding-top: 30px;
+    padding-left: 10px;
+}
+p {
+    padding-top: 50px;
+    padding-left: 10px;
+}
+.wewnetrzny1 {
+    font-size: 25px;
+    color: brown;
+    padding-bottom: 20px;
+}
+.wewnetrzny2 {
+    font-size: 25px;
+    color: darkblue;
+    padding-bottom: 120px;  
+}
